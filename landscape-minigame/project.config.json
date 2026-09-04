@@ -1,0 +1,21 @@
+{
+  "description": "横屏空白微信小游戏骨架",
+  "appid": "touristappid",
+  "projectname": "landscape-minigame",
+  "compileType": "game",
+  "libVersion": "latest",
+  "setting": {
+    "es6": true,
+    "enhance": true,
+    "postcss": true,
+    "minified": true,
+    "urlCheck": false,
+    "coverView": true,
+    "autoAudits": false,
+    "uglifyFileName": false,
+    "ignoreUploadUnusedFiles": true
+  },
+  "simulatorType": "wechat",
+  "simulatorPluginLibVersion": {},
+  "condition": {}
+}

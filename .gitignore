@@ -1,0 +1,5 @@
+# 项目内部数据，勿提交
+.workbuddy/
+
+# macOS
+.DS_Store
