@@ -1,9 +1,11 @@
 {
-  "description": "横屏空白微信小游戏骨架",
-  "appid": "touristappid",
-  "projectname": "landscape-minigame",
+  "description": "坦克大战微信小游戏",
+  "appid": "wx01ff8fae0d1f12f6",
+  "projectname": "tank-battle",
   "compileType": "game",
   "libVersion": "latest",
+  "miniprogramRoot": "./",
+  "gameRoot": "./",
   "setting": {
     "es6": true,
     "enhance": true,
